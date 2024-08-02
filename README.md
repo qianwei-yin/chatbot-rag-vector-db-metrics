@@ -9,7 +9,7 @@
 ### Report and Video
 
 [Report](./REPORT.pdf)
-[Video]()
+[Video](https://www.youtube.com/watch?v=aMZzGsCAuGI)
 
 ### Domain Selection:
 
