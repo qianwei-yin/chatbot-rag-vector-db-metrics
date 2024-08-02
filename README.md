@@ -8,7 +8,7 @@
 
 ### Report and Video
 
-[Report]()
+[Report](./REPORT.pdf)
 [Video]()
 
 ### Domain Selection:
