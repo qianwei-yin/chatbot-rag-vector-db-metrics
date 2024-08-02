@@ -1,0 +1,44 @@
+{
+    "answers_from_llm": [
+        "MongoDB is a document-oriented NoSQL database program, part of the MongoDB Developer Community Forums, and is used by people interested in MongoDB technologies.",
+        "To create an index in MongoDB, you can use the `createIndex()` method. This method allows you to create an index on a specified field or fields within a collection. Here is a general example of how you can create an index in MongoDB:\n\n```javascript\ndb.collection.createIndex({ field: 1 });\n```\n\nIn this example, `collection` is the name of your collection, and `field` is the field on which you want to create the index. The `1` indicates that the index should be created in ascending order. You can also use `-1` for descending order.\n\nFor more specific information on creating indexes in MongoDB, you can refer to the MongoDB documentation or ask for help in the MongoDB Developer Community Forums.",
+        "MongoDB can provide a flexible and scalable database solution for your app. It can handle large volumes of data and support complex queries. MongoDB's document-based data model allows for easy storing and retrieval of data in a format that closely resembles the application's data structures. Additionally, MongoDB offers features like Atlas Edge Server for real-time sync, Atlas Stream Processing for building event-driven applications, and Atlas Search for powerful search capabilities.",
+        "Atlas is a service provided by MongoDB that offers various features and functionalities such as Atlas Edge Server, Atlas Stream Processing, Atlas Triggers & Functions, Atlas Device Sync, Atlas Data API, Atlas GraphQL API, and Atlas Search. It also includes services like Realm for mobile app data synchronization and MongoDB Charts for data visualization. Atlas aims to provide a comprehensive platform for managing and working with MongoDB databases in the cloud.",
+        "Sharding is a method for distributing data across multiple machines. MongoDB uses sharding to support deployments with very large data sets and high throughput operations.",
+        "The provided context does not contain information about the \"useState\" function. In the context, there are discussions related to MongoDB, React Native SDK, Realm Sync, Atlas Device Sync, Firebase Admin Support, Axios, triggers, functions, and more. If you have a specific question related to these topics or another area, feel free to ask for more information."
+    ],
+    "context_relevance_scores": [
+        0.17738737273834107,
+        0.13392317307548113,
+        0.1673153348142319,
+        0.3755483367039565,
+        0.06411879916351267,
+        0.03626996575373866
+    ],
+    "answer_relevance_scores": {
+        "rouge1": [
+            0.48000000000000004,
+            0.27027027027027023,
+            0.37500000000000006,
+            0.31249999999999994,
+            0.3125,
+            0.2162162162162162
+        ],
+        "rouge2": [
+            0.12499999999999997,
+            0.10958904109589043,
+            0.1090909090909091,
+            0.0425531914893617,
+            0.06451612903225808,
+            0.0
+        ],
+        "rougeL": [
+            0.32,
+            0.21621621621621623,
+            0.23214285714285718,
+            0.18749999999999997,
+            0.25,
+            0.12612612612612611
+        ]
+    }
+}

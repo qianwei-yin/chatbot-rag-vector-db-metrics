@@ -15,6 +15,17 @@ langchain-community = "*"
 langchainhub = "*"
 python-dotenv = "*"
 beautifulsoup4 = "*"
+langchain-experimental = "*"
+docarray = "*"
+jupyter = "*"
+giskard = {extras = ["llm"], version = "*"}
+ruff = "*"
+bs4 = "*"
+ipytest = "*"
+pydantic = "==1.10.8"
+langchain-huggingface = "*"
+scikit-learn = "*"
+rouge-score = "*"
 
 [dev-packages]
 
